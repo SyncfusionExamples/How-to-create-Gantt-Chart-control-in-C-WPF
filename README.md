@@ -1,6 +1,6 @@
 # How-to-create-Gantt-Chart-control-in-C-WPF
 
-This repository contains sample for how to create Gantt Chart control in C# WPF
+This repository contains a sample that demonstrates how to create a [WPF Gantt Chart](https://www.syncfusion.com/wpf-controls/gantt) control in C#.
 
 KB article - [How-to-create-Gantt-Chart-control-in-C-WPF](https://www.syncfusion.com/kb/10800/how-to-create-gantt-chart-control-in-c-wpf)
 
@@ -32,6 +32,12 @@ Refer to the following link for more details - [System Requirements](https://hel
 3. Clean and build the application.
 
 4. Run the application.
+
+## Related Links
+
+- [Explore WPF Gantt Chart](https://www.syncfusion.com/wpf-controls/gantt)
+- [Gantt Chart Feature Overview](https://help.syncfusion.com/wpf/gantt/overview)
+- [WPF Gantt Chart Getting Started Guide](https://help.syncfusion.com/wpf/gantt/getting-started)
 
 ## License
 
